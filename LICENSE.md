@@ -1,4 +1,4 @@
-# 
+# Native Ollama plugins. Featuring collaborative-agents and vector-database-integration — optimized for maximum performance and efficiency.
 
 
 
